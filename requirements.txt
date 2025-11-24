@@ -4,4 +4,3 @@ ipywidgets==8.1.2
 jupyterlab_widgets
 jupyterlab-plotly==5.24.1
 voila
-
