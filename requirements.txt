@@ -4,3 +4,4 @@ ipywidgets
 voila
 notebook
 jupyterlab
+anywidget
